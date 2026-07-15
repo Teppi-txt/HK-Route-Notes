@@ -166,7 +166,7 @@
 ## Lower Queen’s Gardens
 
 -   Petra arena
--   Grab Love Key o Dunk when exiting to warp back to the start of the room (if no Isma’s)
+-   Grab Love Key
 -   QG Toll Bench [-140 geo]
 
 ## Darknest
